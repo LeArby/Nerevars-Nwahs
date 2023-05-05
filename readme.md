@@ -1,7 +1,7 @@
 <h1 align="center" style="margin-top: 0px;"> Nerevar's N'wahs </h1>
 <hr>
 <p align="center" dir="auto">
-  <a href="https://discord.gg/gDDnzsyY9u" rel="nofollow">Discord</a>|
+  <a href="https://discord.gg/gDDnzsyY9u" rel="nofollow">Discord</a> |
   <a href="https://loadorderlibrary.com/lists/nerevars-nwahs-2" rel="nofollow">Mod List</a>
 </p>
 <hr>

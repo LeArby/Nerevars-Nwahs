@@ -1,6 +1,8 @@
 <h1 align="center" style="margin-top: 0px;"> Nerevar's N'wahs </h1>
 A Morrowind modlist keeping vanilla graphics as much as possible, but providing tons of new content. Thanks to RingComics for inspiring me to create this modlist as YAJAN helped me get an understanding of how this all works.
 
+[Discord](https://discord.gg/gDDnzsyY9u)
+
 # Introduction
 Nerevar's N'wahs is focused on overhauling Morrowind giving you tons of things to do, overhauling gameplay completely, adding a new levelling system, 100% hit chance and making gear more interesting. You gain xp through doing quests and exploring, hopefully giving you that push to find new things and make it as welcoming as possible for new players.
 

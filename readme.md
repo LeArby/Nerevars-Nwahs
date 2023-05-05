@@ -2,6 +2,7 @@
 <hr>
 <p align="center" dir="auto">
   <a href="https://discord.gg/gDDnzsyY9u" rel="nofollow">Discord</a>
+  <a href="https://loadorderlibrary.com/lists/nerevars-nwahs-2" rel="nofollow">Mod List</a>
 </p>
 <hr>
 A Morrowind modlist keeping vanilla graphics as much as possible, but providing tons of new content. Thanks to RingComics for inspiring me to create this modlist as YAJAN helped me get an understanding of how this all works.

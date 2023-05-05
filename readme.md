@@ -41,7 +41,7 @@ If the install fails, try restarting it (it can take two or more restarts someti
 Run Morrowind.exe in Stock Game Folder to the menu, then exit. If you get the Application Load Error, that's fine, move on to the next step.
 
 
-Run MWSE-Update.exe in your Stock Game Folder (C:\Games\YAJAN\Stock Game Folder) to make sure MWSE is updated.
+Run MWSE-Update.exe in your Stock Game Folder (C:\Games\Nerevar's Nwah's\Stock Game Folder) to make sure MWSE is updated.
 
 MGE XE is already mostly configured, but you should launch MGEXEgui through Mod Organizer and double check the settings are configured to your liking.
 

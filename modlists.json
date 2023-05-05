@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Nervears Nwahs",
+    "description": "A Morrowind modlist overhauling everything, from leveling up, content and companions.",
+    "author": "Okhi",
+    "maintainers": [
+      "github/LeArby"
+    ],
+    "game": "morrowind",
+    "tags": [
+      "survival",
+      "companions"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/LeArby/Nerevars-Nwahs/main/images/fd067fb5a80f74737ce8cf7468978e6b.webp",
+      "readme": "https://raw.githubusercontent.com/LeArby/Nerevars-Nwahs/main/readme.md",
+      "download": "https://authored-files.wabbajack.org/Nerevars%20Nwahs%200.7.2.wabbajack_376c5f42-f33e-448d-ae80-db39e2a6491c",
+      "machineURL": "NerevarsNwahs",
+      "discordURL": "https://discord.com/invite/gDDnzsyY9u"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "FGO/4S+DSKY=",
+      "Size": 91855474,
+      "NumberOfArchives": 7463,
+      "SizeOfArchives": 4527531394,
+      "NumberOfInstalledFiles": 50790,
+      "SizeOfInstalledFiles": 8739654442
+    },
+    "version": "0.7.2"
+  }
+]

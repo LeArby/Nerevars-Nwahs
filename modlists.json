@@ -19,19 +19,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/LeArby/Nerevars-Nwahs/main/images/fd067fb5a80f74737ce8cf7468978e6b.webp",
       "readme": "https://raw.githubusercontent.com/LeArby/Nerevars-Nwahs/main/readme.md",
-      "download": "https://authored-files.wabbajack.org/Nerevars%20Nwahs%200.7.2a.wabbajack_26f95aeb-e485-45b9-ae72-f40b4714f06b",
+      "download": "https://authored-files.wabbajack.org/Nerevars%20Nwahs%200.8.0.wabbajack_73b69214-f3da-4a15-ba74-dd30aaaff8a0",
       "machineURL": "NerevarsNwahs",
       "discordURL": "https://discord.com/invite/gDDnzsyY9u"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "HuW/igs4/+Q=",
-      "Size": 91865926,
-      "NumberOfArchives": 7463,
-      "SizeOfArchives": 4527531394,
-      "NumberOfInstalledFiles": 50790,
-      "SizeOfInstalledFiles": 8739647338
+      "Hash": "dJX5JqYbJto=",
+      "Size": 92122903,
+      "NumberOfArchives": 7505,
+      "SizeOfArchives": 5669530598,
+      "NumberOfInstalledFiles": 56268,
+      "SizeOfInstalledFiles": 9467458839
     },
-    "version": "0.7.2"
+    "version": "0.8.0"
   }
 ]

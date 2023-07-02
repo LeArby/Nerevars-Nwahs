@@ -16,7 +16,7 @@ Want to become a Necromancer? Necrocraft is here. Ever wanted to join the Dark B
 
 # Requirements
 - A legal copy of Morrowind (pirated versions are not supported)
-  - Steam, GOG, and BethNet versions are supported (see below)
+  - Steam version is supported
   - OpenMW won't work, sorry.
 - DirectX 9
 - .NET Framework
